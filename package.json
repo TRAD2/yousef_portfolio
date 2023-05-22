@@ -1,7 +1,7 @@
 {
-  "name": "fireship",
-  "version": "2.0.0",
-  "description": "Awesome content for developers",
+  "name": "yousef portfolio",
+  "version": "0.0.0",
+  "description": "yousef trad work potrfolio",
   "main": "index.ts",
   "type": "module",
   "scripts": {
@@ -16,7 +16,7 @@
     "deploy": "firebase deploy --debug --token \"$FIREBASE_TOKEN\" --only hosting"
   },
   "keywords": [],
-  "author": "Jeff Delaney",
+  "author": "yousef trad",
   "license": "ISC",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.1",

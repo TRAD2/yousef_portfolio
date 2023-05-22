@@ -1,6 +1,6 @@
-baseURL = 'https://fireship.io/'
+baseURL = 'https://trad/'
 languageCode = 'en-us'
-title = 'Fireship'
+title = 'trad'
 enableRobotsTXT = true
 
 [outputs]
